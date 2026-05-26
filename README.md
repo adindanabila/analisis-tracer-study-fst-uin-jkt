@@ -1,2 +1,2 @@
-# analisis-tracer-study-fst-uin-jkt
-Analisis Tracer Study Fakultas Sains dan Teknologi (FST) UIN Jakarta untuk memenuhi Capstone Project pada mata kuliah Penambangan Data 
+Exploratory data analysis on FST UIN Jakarta alumni tracer study data to identify career trends, employment outcomes, entrepreneurship, and further education patterns.
+
